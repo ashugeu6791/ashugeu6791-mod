@@ -10,7 +10,5 @@ int main(){
   struct req requests[R];
   input(car,requests,n,N,R,location);
   display(car,n,requests,N,R,location);
-  //sorting();
-  //dij();
   return 0;
 }
