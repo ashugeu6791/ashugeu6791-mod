@@ -1,0 +1,5 @@
+#include"sorting.c"
+#include"input.c"
+#include"dij.c"
+#include"readEssential.c"
+#include"display.c"
